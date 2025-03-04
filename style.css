@@ -42,9 +42,8 @@ a{
 header {
     padding: 20px 40px;
 }
-header h1{
-    color: #ff4000;
-    font-size: 24px;
+header img{
+    max-height: 35px;
 }
 .nav{
     position: fixed;
