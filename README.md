@@ -29,4 +29,4 @@ Getting better at both web and Android development, one small project at a time.
 ## Contact
 
 * **Email:** [miracle.dev.studios01@gmail.com](mailto:miracle.dev.studios01@gmail.com)
-* **GitHub:** github.com/yourusername
+* **GitHub:** [github.com/MiracleDev-Studios](https://github.com/MiracleDev-Studios)
