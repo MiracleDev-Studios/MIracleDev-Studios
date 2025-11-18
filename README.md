@@ -12,6 +12,10 @@ I love building things for the web with HTML, CSS, and JavaScript. Lately, I've 
 * **Web Stuff:** Responsive layouts, clean UI, simple animations
 * **Tools:** Git, GitHub, VS Code
 
+
+## Projects
+* **Tierra:** https://tierra-seven.vercel.app
+
 ## What I'm Learning
 
 Right now, I'm figuring out how Android apps work—layouts, components, the whole flow. I'm also polishing my JavaScript skills and improving how I organize my code.
